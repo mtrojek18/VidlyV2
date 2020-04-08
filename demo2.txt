@@ -8,3 +8,5 @@ more lines added here from the Mike branch again
 and again
 
 &more changes here from the master after merge
+
+***before stash
