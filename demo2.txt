@@ -1,6 +1,6 @@
 here is a line added & more lines added here
 
-here is another line addded
+here is another line addded - modified here after stash command
 
 adding this line from the "MIKE" branch
 
